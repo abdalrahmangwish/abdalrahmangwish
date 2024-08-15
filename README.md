@@ -37,8 +37,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/c++-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/spring-0A0A0A?style=for-the-badge" alt="YAML"/>
+  <img src="https://img.shields.io/badge/c++-FA7343?style=for-the-badge&logo=c++&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/dart-0A0A0A?style=for-the-badge&logo=dart" alt="YAML"/>
   <img src="https://img.shields.io/badge/php-00ADD8?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
     
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
