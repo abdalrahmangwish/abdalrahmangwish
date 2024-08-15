@@ -40,6 +40,10 @@
   <img src="https://img.shields.io/badge/c++-FA7343?style=for-the-badge&logo=c++&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/dart-0A0A0A?style=for-the-badge&logo=dart" alt="YAML"/>
   <img src="https://img.shields.io/badge/php-00ADD8?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/SQL-00ADD8?style=for-the-badge&logo=SQL&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/SQL-server-00ADD8?style=for-the-badge&logo=SQL&logoColor=white" alt="php"/>
+
+
     
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
@@ -52,7 +56,7 @@
   <img src="https://img.shields.io/badge/next.js-4FC08D?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/tailwind-092E20?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/tailwind-092E20?style=for-the-badge&logo=tailwind&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
 </div>
