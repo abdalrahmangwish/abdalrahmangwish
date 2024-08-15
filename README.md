@@ -17,10 +17,6 @@
   <a href="https://www.linkedin.com/in/abdalrahaman-gwiash-633316259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/abdalrahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://github.com/abdalrahmangwish" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Abdalrahman&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
